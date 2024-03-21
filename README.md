@@ -1,4 +1,4 @@
-####이 내용은 'Git&Github 실무활용' 강의를 수강하면서 작성한 프로젝트
+#### 이 내용은 'Git&Github 실무활용' 강의를 수강하면서 작성한 프로젝트
 
 # hello-world
 ### hello-world repository
