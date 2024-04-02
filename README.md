@@ -1,4 +1,5 @@
 #### 이 내용은 'Git&Github 실무활용' 강의를 수강하면서 작성한 프로젝트
+깃허브의 사용법에 대하여 공부할 수 있었음
 
 # hello-world
 ### hello-world repository
